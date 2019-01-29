@@ -1,0 +1,12 @@
+{
+  "name": "nagasaki1945Tiles",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "17",
+  "scale": "1.000000",
+  "bounds": [129.82614600, 32.69869051, 129.91909247, 32.80069300],
+  "profile": "mercator"
+}
